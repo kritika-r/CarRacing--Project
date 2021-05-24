@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-image:url("backdrop.gif");
+    background-size: cover;
+    background-position:center;
+}
+canvas{
+    background-color:white;
+    border-style:ridge;
+    border-color:grey;
+    border-width:10px;
+}
+span{
+    font-size:20px;
+}
